@@ -3,7 +3,7 @@
 
 #### There's a fundamental limitation in how standard attention mechanisms operate:
 
-Standard Attention (What's Actually Implemented)
+Standard Attention (Implemented in standard LLMs)
 
 - Uses scalar dot products for similarity scoring
 - Produces weighted averages (linear combinations)
@@ -16,8 +16,8 @@ The Force-Directed Model (What I Conceptually Propose)
 - Would operate with vector forces rather than scalar similarities
 - Would calculate direction-dependent interactions
 - Would model repulsion/attraction rather than just similarity
-- Would naturally create curved relationships in the embedding space as more points are added .. (arbitrary precision)
-- Second example adds a splash of topology..
+- Would naturally create curved relationships in the embedding space as more points are added
+- Second example adds a splash of topology
 
 First basic test complete and posted at the bottom of the readme along with all unit tests ready to run.
 
