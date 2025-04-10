@@ -11,7 +11,7 @@ Standard Attention (What's Actually Implemented)
 - No natural representation of curved space
 - Fundamentally linear operations
 
-The Force-Directed Model (What I Conceptually Proposed)
+The Force-Directed Model (What I Conceptually Propose)
 
 - Would operate with vector forces rather than scalar similarities
 - Would calculate direction-dependent interactions
