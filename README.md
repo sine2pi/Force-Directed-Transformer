@@ -18,7 +18,7 @@ The Force-Directed Model (What I Conceptually Propose)
 - Would model repulsion/attraction rather than just similarity
 - Would naturally create curved relationships in the embedding space as more points are added .. (arbitrary precision)
 - Second example adds a splash of topology..
-- 
+  
 Mock ups:
 
 ```python
