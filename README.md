@@ -115,7 +115,7 @@ critics agree:
 
 ---
 
-Booo AI critics..
+Booo critics..
 
                    
 ```python
