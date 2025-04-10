@@ -27,6 +27,7 @@ First basic test complete and posted at the bottom of the readme along with all 
 
 
 Blue dots for emission tokens and red dots for receptivity tokens.
+
 Green arrows representing the forces between tokens, showing both direction and magnitude.
 
 Forces:
