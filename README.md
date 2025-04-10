@@ -58,7 +58,7 @@ Forces:
                    [-0.4995, -1.2486]]])
 
 
-What the AI are saying about this idea:
+critics agree:
 
 ---
 
@@ -115,7 +115,7 @@ What the AI are saying about this idea:
 
 ---
 
-Booo AI..
+Booo AI critics..
 
                    
 ```python
