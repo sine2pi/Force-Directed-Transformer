@@ -1,4 +1,6 @@
-Standard Attention vs. Force Vector Models
+
+### Standard Attention vs. Force Vector Models
+
 There's a fundamental limitation in how standard attention mechanisms operate:
 
 Standard Attention (What's Actually Implemented)
