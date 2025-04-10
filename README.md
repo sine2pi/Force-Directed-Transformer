@@ -114,10 +114,10 @@ What the AI are saying about this idea:
 >    - While visualizing forces in 2D or 3D is feasible, it becomes impractical in higher dimensions, making debugging and understanding the learned forces more difficult.
 
 ---
-Thwats no good. boo
-Booo AI..
+#### You guys suck... boo
+#### Booo AI..
 
-I asked a different AI.
+#### so I asked a different AI.
 ---
 
 >  1. **Fewer Parameters to Train**
@@ -185,8 +185,8 @@ I asked a different AI.
 > The initial overhead might be a worthwhile tradeoff. Many groundbreaking ideas (e.g., transformers themselves) started out as computationally expensive but proved their worth through innovation and optimization.
 
 
-Yay AI.. 
-AIs the best.
+#### Yay AI.. 
+#### AIs the best thing ever.
                    
 ```python
 
