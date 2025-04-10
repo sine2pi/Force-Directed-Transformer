@@ -1,21 +1,23 @@
 
 ### Standard Attention vs. Force Vector Models
 
-There's a fundamental limitation in how standard attention mechanisms operate:
+#### There's a fundamental limitation in how standard attention mechanisms operate:
 
 Standard Attention (What's Actually Implemented)
-Uses scalar dot products for similarity scoring
-Produces weighted averages (linear combinations)
-No concept of reciprocal forces or vectors
-No natural representation of curved space
-Fundamentally linear operations
+
+- Uses scalar dot products for similarity scoring
+- Produces weighted averages (linear combinations)
+- No concept of reciprocal forces or vectors
+- No natural representation of curved space
+- Fundamentally linear operations
 
 The Force-Directed Model (What I Conceptually Proposed)
-Would operate with vector forces rather than scalar similarities
-Would calculate direction-dependent interactions
-Would model repulsion/attraction rather than just similarity
-Would naturally create curved relationships in the embedding space
-Second one adds a topological splash..
+
+- Would operate with vector forces rather than scalar similarities
+- Would calculate direction-dependent interactions
+- Would model repulsion/attraction rather than just similarity
+- Would naturally create curved relationships in the embedding space as more points are added .. (arbitrary precision)
+- Second example adds a splash of topology..
 Mock ups:
 
 ```python
